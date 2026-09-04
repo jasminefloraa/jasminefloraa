@@ -71,13 +71,13 @@ A Java application that simulates basic ATM operations, including balance checki
 - GitHub: https://github.com/jasminefloraa
 - Email: jasmineflora2006@gmail.com
 
-  <p align="center">
+<p align="center">
   <a href="https://jasminefloraa.github.io/jasmine-portfolio/">
-    <img src="https://img.shields.io/badge/🌷%20Interested%3F%20Take%20a%20Look%20at%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio">
+    <img src="https://img.shields.io/badge/👀%20Curiosity%20Got%20You%3F-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Curiosity Got You?">
   </a>
 </p>
 
-Thank you for visiting my profile.
+<p align = "center">  Thank you for visiting my profile. </p>
 
 ## 💻 Tech Stack
 
