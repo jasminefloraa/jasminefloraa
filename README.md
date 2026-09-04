@@ -14,7 +14,7 @@ I am a Computer Science and Engineering student with an interest in software dev
 * Passionate about building practical projects and solving problems
 * Continuously developing my technical skills
 
-##💻Technical Skills
+## 💻 Technical Skills
 
 * **Programming Languages:** Python, Java
 * **Web Technologies:** HTML, CSS, JavaScript
