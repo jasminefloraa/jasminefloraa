@@ -1,6 +1,6 @@
 # Hi, I'm Jasmine Flora <p align="center">
   <a href="https://jasminefloraa.github.io/jasmine-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌷%20Interested%3F%20Take%20a%20Look%20at%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio">
   </a>
 </p>
 
