@@ -4,7 +4,7 @@
 
 I am a Computer Science and Engineering student with an interest in software development, Artificial Intelligence, Machine Learning, and Cybersecurity. I enjoy building practical projects, learning new technologies, and improving my problem-solving skills.
 
-## About Me
+## 📌 About Me
 
 * Final-year B.Tech Computer Science and Engineering student
 * Aspiring Software Developer
@@ -58,14 +58,14 @@ A Java application that simulates basic ATM operations, including balance checki
 
 **Technologies:** Java, Object-Oriented Programming
 
-## Currently Learning
+## 📚 Currently Learning
 
 * Java Programming
 * Data Structures and Algorithms
 * Artificial Intelligence and Machine Learning
 * Cybersecurity Fundamentals
 
-## Let’s Connect
+## 🤝 Let’s Connect
 
 - LinkedIn: www.linkedin.com/in/jasmine-flora
 - GitHub: https://github.com/jasminefloraa
