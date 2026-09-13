@@ -16,15 +16,17 @@ I am a Computer Science and Engineering student with an interest in software dev
 
 ## 💻 Technical Skills
 
-* **Programming Languages:** Python, Java
-* **Web Technologies:** HTML, CSS, JavaScript
-* **Frameworks and Libraries:** Flask, Flask-CORS
-* **Artificial Intelligence and Machine Learning:** Machine Learning, Random Forest, SHAP
-* **Core Concepts:** Data Structures and Algorithms, Object-Oriented Programming
-* **Design and Prototyping:** Figma, UI Prototyping, CSS Transitions
-* **Tools and Platforms:** Git, GitHub, Visual Studio Code
-* **Deployment:** Render, Netlify, Vercel
-* **Areas of Interest:**  Cybersecurity, Software Development, Artificial Intelligence, Machine Learning
+* **Programming Languages:** Python, Java, JavaScript
+* **Web Development:** HTML, CSS, React
+* **Backend Development:** Node.js, Express.js, Flask, Flask-CORS, REST APIs
+* **Databases & ORM:** PostgreSQL, MySQL, SQL, Prisma
+* **AI & Machine Learning:** Machine Learning, Random Forest, SHAP
+* **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS
+* **Authentication & Real-Time:** JWT, Role-Based Access Control, Socket.IO
+* **Tools & Deployment:** Git, GitHub, Visual Studio Code, Postman, Render, Netlify, Vercel
+* **Design:** Figma, UI Prototyping, CSS Transitions
+* **Areas of Interest:** Software Development, Cybersecurity, Artificial Intelligence, Machine Learning
+
 
 ## 📂 Featured Projects
 
