@@ -237,22 +237,6 @@ An Arduino-based people-counting system using IR sensors to monitor room occupan
 
 ---
 
-# Coding Profiles
-
-<p>
-<a href="https://leetcode.com/u/jasmineflora_j/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.codechef.com/users/jasmine_flora">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<a href="https://codeforces.com/profile/jasmine_flora">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-</p>
-
 # Let's Connect
 
 I'm always interested in opportunities to **learn, build, collaborate and solve meaningful engineering problems.**
