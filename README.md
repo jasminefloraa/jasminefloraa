@@ -23,7 +23,6 @@ Building practical software with **Python, JavaScript, AI/ML and Full-Stack tech
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jasminefloraa&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
