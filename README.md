@@ -51,73 +51,93 @@ I believe in learning by building, improving through problem solving, and writin
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-222222?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
-### Engineering
-
-<p>
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge" />
-</p>
+**Python · Java · JavaScript**
 
 ---
 
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React" />
+</p>
+
+**HTML5 · CSS3 · React**
+
+---
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=flask" width="45" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=django" width="45" alt="Django" />
+</p>
+
+**Node.js · Express.js · Flask · Django · REST APIs · Flask-CORS**
+
+---
+
+### AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="45" alt="Streamlit" />
+</p>
+
+**NumPy · Pandas · Scikit-learn · Random Forest · SHAP · Matplotlib · Streamlit · Machine Learning**
+
+---
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql" width="45" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" />
+</p>
+
+**PostgreSQL · MySQL · SQL · Prisma**
+
+---
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" />
+</p>
+
+**Git · GitHub · VS Code · Postman · Vercel · Render**
+
+---
+
+### Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-111111?style=for-the-badge" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge" alt="DBMS" />
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RBAC-111111?style=for-the-badge" alt="Role Based Access Control" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</p>
+
+**Data Structures & Algorithms · OOP · DBMS · REST APIs · JWT · RBAC · Socket.IO**
 # Featured Projects
 
 ## Velozity Dashboard
