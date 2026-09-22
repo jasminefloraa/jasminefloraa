@@ -233,30 +233,6 @@ An Arduino-based people-counting system using IR sensors to monitor room occupan
 </a>
 </p>
 
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jasminefloraa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jasminefloraa&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminefloraa&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" />
-
-</div>
-
----
-
 # Let's Connect
 
 I'm always interested in opportunities to **learn, build, collaborate and solve meaningful engineering problems.**
